@@ -325,9 +325,3 @@ The semantic search system works by:
 > Built with ⚽ and 💻 as a collaborative DSP project
 
 ---
-
-## 📧 Contact
-
-For questions, suggestions, or collaboration opportunities, please reach out to the team or open an issue on GitHub.
-
----
